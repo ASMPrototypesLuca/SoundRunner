@@ -9,3 +9,4 @@ Individual project for the Minor "Advanced Smart Mobile" at Fontys Hogeschool in
     <td>Sound Runner: <img src="https://github.com/Luca-Bulles/SoundRunner/actions/workflows/swift.yml/badge.svg" alt="C# Sound Runner health"/></td>
   </tr>
 </table>
+ 
